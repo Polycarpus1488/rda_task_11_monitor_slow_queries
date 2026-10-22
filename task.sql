@@ -131,3 +131,5 @@ INSERT INTO Products1 (Name)
 	VALUES ('AwersomeProduct59'); 
 INSERT INTO Products1 (Name)
 	VALUES ('AwersomeProduct60'); 
+
+-- To determine which query was faster, I ran both queries at least 10 times from the mysql client on a server and then in mysql-slow.log file analysed both queries and figured out which one is faster.
